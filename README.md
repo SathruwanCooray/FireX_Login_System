@@ -71,7 +71,7 @@ https://github.com/SathruwanCooray/Odessy_FlightChecker/assets/150252729/16a1b7f
 - Run the application using `npm run dev` to test the functionality locally.
 - Deploy securely to a production environment, ensuring sensitive data protection.
 
-Create a `.env` file in the root directory of your project with the following content:
+Create a `.env` file in the /Backend directory of your project with the following content:
 
 - `MONGODB_URI`: MongoDB connection URI for your database.
 - `PORT`: Port number on which your ExpressJS server will run.
